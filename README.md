@@ -1,4 +1,5 @@
 # eqs_app
+Aplikasi EQS - Analisis &amp; Desain Algoritma
 
 A new Flutter project.
 
